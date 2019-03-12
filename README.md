@@ -13,4 +13,10 @@ Read and complete the exercises on W3 schools here: https://www.w3schools.com/ja
 #### What happened at the end of 01 and why did that happen?
 
 
+### Exercise 02
+
+1. Create a new method expNum().
+2. Have the method declare and initialize a double variable to 32.
+3. The method should use the natural logarithm (e) with the variable as the exponent and print the result. 
+4. Change it to a higher result. This demonstrats floating point numbers.
 
